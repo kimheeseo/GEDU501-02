@@ -24,3 +24,10 @@
 
 
 ## 6. parallelism
+
+## fixing flow
+1) sentence order
+2) subject linking
+3) transitions : 접속사
+- 접속사 : 하나의 내용에서 다른 내용으로 넘어갈 때 문장을 자연스럽게 연결해주는 단어
+ex) for example
