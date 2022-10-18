@@ -10,3 +10,17 @@
 - https://raccoonenglish.tistory.com/m/3274
 - https://raccoonenglish.tistory.com/m/3143 
 - https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=brucelee55&logNo=220927057550
+
+## 3. subject verb agreement
+- https://www.grammarbook.com/grammar/subjectVerbAgree.asp
+- plural(복수) verb
+
+## 4. pronoun agreement
+- https://brunch.co.kr/@hwangyeiseul/24
+- https://www.niu.edu/writingtutorial/grammar/pronoun-agreement.shtml
+
+## 5. misplaced modifiers
+- https://www.scribbr.com/language-rules/misplaced-modifier/
+
+
+## 6. parallelism
