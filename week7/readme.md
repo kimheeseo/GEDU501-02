@@ -1,4 +1,4 @@
-#common error types
+# common error types
 
 ## 1. run on sentneces 
 - 두개 이상의 독립절이 접속사나 구두점 같은 적절한 연결고리 없이 이어진 문장.
