@@ -31,3 +31,5 @@
 3) transitions : 접속사
 - 접속사 : 하나의 내용에서 다른 내용으로 넘어갈 때 문장을 자연스럽게 연결해주는 단어
 ex) for example
+4) flow + conclusion
+- readers interpret prose more easily when it folws well, from lod information to new information, from context to conclusion.
