@@ -9,5 +9,10 @@
 - https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=ing4mo&logNo=220626142506
 
 # 3. transitions(연결어)
+- show order between steps
 - https://writingcenter.unc.edu/tips-and-tools/transitions/
 - https://writing.wisc.edu/handbook/style/transitions/
+
+# 4. context(문맥)
+- show purpose of steps
+- https://m.blog.naver.com/ljhsecret/60155604088
