@@ -18,3 +18,6 @@
 - show purpose of steps
 - https://m.blog.naver.com/ljhsecret/60155604088
 - https://www.merriam-webster.com/dictionary/context
+
+# 5. Headings for methods/experimentation sections
+- https://www.enago.com/academy/how-to-write-the-methods-section-of-a-scientific-article/
